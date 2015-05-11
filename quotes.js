@@ -40,6 +40,7 @@ var lines = [
 	'Que porra de calça é essa?',
 	'Essa calça no brasil é cartão amarelo.',
 	'Deleta tudo e faz de novo'
+	'Tirando pornografia, futebol é que dar mais dinheiro nesse planeto'
 ];
 
 function random(array) {
